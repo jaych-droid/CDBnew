@@ -1,0 +1,42 @@
+﻿body {
+    background-color: brown;
+}
+#container{
+    background-color: #808080;
+    width: 1000px;
+    margin: 0 auto;
+}
+header{
+    background-color: #b6ff00;
+    color: brown;
+    border: 4px brown dashed;
+    text-align: center
+}
+aside{
+    width: 250px;
+    float: left;
+    padding-left: 20px;
+}
+article{
+    width:700px;
+    float: right;
+}
+footer{
+    background-color: #808080;
+    color: grey;
+    clear: both;
+}
+h1{
+    color: black;
+    font-style: italic;
+    tex
+}
+h2{
+    color: #2c1be7;
+}
+h3, h4{
+    color: black;
+}
+input, textarea{
+    display: block;
+}
